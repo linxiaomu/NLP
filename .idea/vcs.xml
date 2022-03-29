@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Chinese-Text-Classification-Pytorch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Chinese_Text_Classification_Pytorch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NewsSubjectClassification_heima" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../test_git" vcs="Git" />
+  </component>
+</project>
